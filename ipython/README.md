@@ -1,6 +1,6 @@
 # ipython - a better command shell
 
-This talk is an introduction to `ipython`, which is a much nicer command shell than the default python shell.
+This talk is an introduction to `ipython`, which is a much nicer command shell than the default python shell. Presentation slides are here: <https://docs.google.com/presentation/d/1rI9iQT9OJHKL7wsaFqNkdGRwI32q3W3F0ojg6Df0Dcg/edit?usp=sharing>.
 
 ## Getting to the `ipython` shell
 
