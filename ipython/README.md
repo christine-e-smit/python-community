@@ -59,6 +59,6 @@ You have a few options:
 
 1. Search through your command history for the last line that started `pr`: type `pr` at a new prompt and hit the up arrow.
 
-1. Carelessly copy and paste a code snippet that still has the `ipython` prompt _or_ the python prompt and execute. Copy and paste: `>>> print("hello world")`
+1. Carelessly copy and paste a code snippet that still has the `ipython` prompt _or_ the `python` prompt and execute. Copy and paste: `>>> print("hello world")`
 
 1. Read <https://ipython.readthedocs.io/en/stable/overview.html> for more!
